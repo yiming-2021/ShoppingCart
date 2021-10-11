@@ -1,5 +1,5 @@
 # ShoppingCart
-A shopping cart console app
+A shopping cart console app, providing a dashboard where you can view product prices, add items, remove items, view items in the cart and checkout. After checking out, the purchase will be recorded as orders in the db.
 
 ## Tables in Database:
 
